@@ -5,11 +5,11 @@ Projetos do curso de java do Nelios Alves.
 
 ### Alguns projetos para refazer em java:
 
- - Calculadora (CLASSICO);
- - LocaHouse (originalmente em py, usar POO nesse)
+ - ~Calculadora (CLASSICO);~
+ - ~LocaHouse (originalmente em py, usar POO nesse)~
  - Valoidador de CEP (eu achooq da pra fazer)
 
-### RECOMENDAÇÕES GPT:
+### RECOMENDAÇÕES DE PROJETOOS GPT:
 
 # Projetos Simples em Java
 
@@ -17,15 +17,6 @@ Este repositório contém ideias de projetos simples para praticar Java básico,
 
 ---
 
-## 📌 1. Calculadora Simples
-**Objetivo:** Criar um programa que realize operações matemáticas básicas (+, -, *, /).
-
-### 🛠 Mapeamento:
-- Criar uma classe `Calculadora` com métodos para soma, subtração, multiplicação e divisão.
-- Criar um `Scanner` para receber entradas do usuário.
-- Utilizar `switch-case` para escolher a operação.
-
----
 
 ## 📌 2. Gerenciador de Tarefas
 **Objetivo:** Criar um sistema simples para adicionar, listar e remover tarefas.
@@ -88,15 +79,5 @@ Este repositório contém ideias de projetos simples para praticar Java básico,
 - Criar um menu para o usuário selecionar a moeda de origem e destino.
 
 ---
-
-## 🚀 Como Começar
-1. Escolha um projeto e crie uma classe principal (`Main.java`).
-2. Implemente as classes e métodos conforme o mapeamento.
-3. Utilize o console para entrada e saída de dados.
-4. Teste cada funcionalidade conforme avança no desenvolvimento.
-
-Se desejar, pode expandir os projetos adicionando interfaces gráficas (JavaFX/Swing) ou armazenamento em banco de dados.
-
-**Bom estudo! 🚀**
 
 
